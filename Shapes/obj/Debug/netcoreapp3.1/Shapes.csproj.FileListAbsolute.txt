@@ -1,0 +1,12 @@
+/Users/pabloalexis611/Luis/Shapes/bin/Debug/netcoreapp3.1/Shapes.deps.json
+/Users/pabloalexis611/Luis/Shapes/bin/Debug/netcoreapp3.1/Shapes.runtimeconfig.json
+/Users/pabloalexis611/Luis/Shapes/bin/Debug/netcoreapp3.1/Shapes.runtimeconfig.dev.json
+/Users/pabloalexis611/Luis/Shapes/bin/Debug/netcoreapp3.1/Shapes.dll
+/Users/pabloalexis611/Luis/Shapes/bin/Debug/netcoreapp3.1/Shapes.pdb
+/Users/pabloalexis611/Luis/Shapes/obj/Debug/netcoreapp3.1/Shapes.csprojAssemblyReference.cache
+/Users/pabloalexis611/Luis/Shapes/obj/Debug/netcoreapp3.1/Shapes.AssemblyInfoInputs.cache
+/Users/pabloalexis611/Luis/Shapes/obj/Debug/netcoreapp3.1/Shapes.AssemblyInfo.cs
+/Users/pabloalexis611/Luis/Shapes/obj/Debug/netcoreapp3.1/Shapes.csproj.CoreCompileInputs.cache
+/Users/pabloalexis611/Luis/Shapes/obj/Debug/netcoreapp3.1/Shapes.dll
+/Users/pabloalexis611/Luis/Shapes/obj/Debug/netcoreapp3.1/Shapes.pdb
+/Users/pabloalexis611/Luis/Shapes/obj/Debug/netcoreapp3.1/Shapes.genruntimeconfig.cache
