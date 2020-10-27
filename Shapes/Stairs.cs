@@ -13,16 +13,15 @@ namespace Shapes{
             int y = 0;
             string drawing = "";
 
-            while (x < 10)
+            while (y < 10)
             {
-                x = x + 1;
+                y = y + 1;
                 Console.WriteLine(drawing);
 
-                while (y < 10)
-                {
-                    y = y + 1;
-                    Console.Writeline(drawing);
-                }
+            
+                
+            
+                
 
 
             }
